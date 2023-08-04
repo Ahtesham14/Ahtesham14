@@ -6,6 +6,6 @@
 
 💞️ I'm looking to collaborate on open-source Flutter projects or any exciting mobile app development projects.
 
-📫 You can reach me through my email: ahteshamquadri123@gmail.com or connect with me on LinkedIn: [linkedin.com/in/Ahtesham14](https://www.linkedin.com/in/ahtesham-quadri-ab2b541b3)
+📫 You can reach me through my email: ahteshamquadri123@gmail.com or connect with me on LinkedIn: (https://www.linkedin.com/in/ahtesham-quadri-ab2b541b3)
 
 Looking forward to connecting and collaborating with fellow Flutter developers! 😊
